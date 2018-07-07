@@ -73,6 +73,7 @@ export default {
     enter(){
       this.$emit('input', this.matches[this.current].title)
       this.open = false
+      this.isfocused = false
     },
     up(){
       if (this.current > 0) {
