@@ -3,7 +3,10 @@ a simple component with autocomplete input
 Based in [this](http://fareez.info/blog/vuejs/create-your-own-autocomplete-using-vuejs-2/) article.
 
 
-I just added some personal changes to display the list of suggestions by i/o of the input focus too.
+I just added some personal features:
+
+* Display the list of suggestions by i/o of the input focus too.
+* Case Insensitive search.
 
 ## Usage
 #### template
